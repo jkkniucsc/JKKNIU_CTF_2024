@@ -1,2 +1,2 @@
 ## Challenge info
-> Super easy steganography challenge
+> Super easy steganography challenges
