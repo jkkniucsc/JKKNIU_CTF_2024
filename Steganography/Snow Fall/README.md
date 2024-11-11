@@ -6,3 +6,8 @@
 ### [File](https://drive.google.com/file/d/142K_gLVJ7a41yOVftLvXRfN6IxGtR89c/view?usp=sharing)
 
 #### **Flag Format**:  **JKKNIUCTF{f4k3_fl4g}**
+
+---
+#### Solution
+Classic steganography using the SNOW technique teaches a user how to brute-force a password embedded in hidden whitespace within text files.
+[Solution](solution.md)
