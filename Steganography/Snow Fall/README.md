@@ -5,4 +5,4 @@
 
 ### [File](https://drive.google.com/file/d/142K_gLVJ7a41yOVftLvXRfN6IxGtR89c/view?usp=sharing)
 
-#### **Flag Format**:  **JKKNIUCT{f4k3_fl4g}**
+#### **Flag Format**:  **JKKNIUCTF{f4k3_fl4g}**
