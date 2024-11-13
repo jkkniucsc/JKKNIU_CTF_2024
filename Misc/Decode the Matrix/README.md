@@ -6,4 +6,10 @@
 ### [Download File](https://drive.google.com/file/d/18FhRCi-nxh91nTOZkS0EHDb8cHqDQLp4/view?usp=sharing)
 
 ---
-### **Flag 🚩:** `JKKNIUCTF{REDACTED}`
+### Solution
+> Decode all QR codes!! <br>
+> Or automate...!
+
+>[!TIP]
+> -_-
+> [Solution](solution.md)!
