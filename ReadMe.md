@@ -4,7 +4,7 @@
 
 
 > [!IMPORTANT]
-> Categories and total numer of problems
+> Categories and Total Number of Problems
 > 
 ```mermaid
 pie
