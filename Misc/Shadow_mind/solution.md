@@ -7,3 +7,6 @@ john shadow --format=crypt
 ```
 
 ### Flag: JKKNIUCTF{abigael:password1_secrets:123}
+
+
+#### Ref: [Link](https://security.stackexchange.com/questions/252665/does-john-the-ripper-not-support-yescrypt)
