@@ -4,12 +4,12 @@
 
 ### Total
 - [ ] Crypto: 1
-- [ ] Misc: 3
+- [ ] Misc: 4
 - [ ] OSINT: 4
 - [ ] Reverse Engineering: 3
 - [ ] Steganography: 2
 - [ ] Web: 0
-- [ ] Forensics: 7
+- [x] Forensics: 7 (Completed)
 - [ ] Pwn: 0
 <br> <br>
 > [!IMPORTANT]
