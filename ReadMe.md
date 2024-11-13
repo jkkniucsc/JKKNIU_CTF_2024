@@ -2,7 +2,15 @@
 
 # JKKNIU CTF 2024 Problem Set
 
-
+### Total
+- [ ] Crypto: 0
+- [ ] Misc: 4
+- [ ] OSINT: 4
+- [ ] Reverse Engineering: 3
+- [ ] Steganography: 2
+- [ ] Web: 0
+- [ ] Forensics: 0
+<br> <br>
 > [!IMPORTANT]
 > Categories and Total Number of Problems
 > 
