@@ -4,7 +4,7 @@
 - **Difficulty**: Medium
 - **Flag format**: `JKKNIUCTF{s0m3_th!ng}`
 - **Author**: or3ki_01xs
-
+---
 [Attachment](https://drive.google.com/file/d/1xsDU1umejsugYuhi8r6wUxSseX_wA9hC/view?usp=sharing) <br>
 [Backup](Secret_ingredient)
 
