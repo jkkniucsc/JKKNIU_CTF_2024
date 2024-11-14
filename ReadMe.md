@@ -4,13 +4,14 @@
 
 ### Total
 - [ ] Crypto: 1
-- [ ] Misc: 4
+- [x] Misc: 6 (Completed)
 - [ ] OSINT: 4
 - [ ] Reverse Engineering: 3
 - [ ] Steganography: 2
-- [ ] Web: 0
+- [ ] Web: Pending
 - [x] Forensics: 7 (Completed)
-- [ ] Pwn: 0
+- [ ] Pwn: Pending
+- [ ] Warmup: Pending
 <br> <br>
 > [!IMPORTANT]
 > Categories and Total Number of Problems
@@ -24,5 +25,6 @@ pie
 "Forensics": 20.00
 "Web Exploitation": 10.00
 "Cryptography": 13.33
-"Pwn": 10.00
+"Pwn": 1
+"Warmup": 5
 ```
