@@ -1,13 +1,12 @@
 ## Description:
 Never compare yourself with others it was said but some time it can be beneficial.
 
-## Difficulty: Easy
+- Difficulty: Easy
+- Flag format: JKKNIUCTF{s0me_t3xt}
+- Author: mehediBiswas101
 
-## Flag format: JKKNIUCTF{s0me_t3xt}
+**Flag**: `JKKNIUCTF{hAck1nG_n3ed5_sk1ll}`
 
-## Author: mehediBiswas101
-
-## Flag: JKKNIUCTF{hAck1nG_n3ed5_sk1ll}
-
-## Solution:
-Open the file in cutter or any other tools notice the compare funtion,copy the comparing strings and give it as input you will be awarded flag.
+---
+### Solution:
+Open the file in Cutter (or any similar analysis tool) and locate the `compare` function. Observe the strings being compared within the function—copy these strings and use them as input to retrieve the flag.
