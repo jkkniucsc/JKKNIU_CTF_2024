@@ -1,7 +1,0 @@
-Challenge Description: Can you break this and find flag for me?
-Difficulty: Easy
-Ciphertext: <-G(6*^!4eSUlR10I1SLN$any!j}nDMNCOH%dEB 
-Flag Format: JKKNIUCTF{}
-Author:7m1rz9a
-Flag 🚩: JKKNIUCTF{Decode_Me_If_You_Can}
-Solution: decode with Base92.
