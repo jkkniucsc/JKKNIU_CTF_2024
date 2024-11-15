@@ -8,5 +8,5 @@
    ### **Flag 🚩:** `JKKNIUCTF{E4sy_Crypt0gr4phy_L4_L4_L4}`
    **KEY:** TM_47
    #### Solution:
-  XOR decrypt > Hex > Base32 > Flag
+   XOR decrypt > Hex > Base32 > Flag
    
