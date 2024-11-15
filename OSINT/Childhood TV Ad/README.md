@@ -3,6 +3,6 @@
  - **Flag Format:** `JKKNIUCTF{S0m3_t3xt}`
  - **Author: TM_47**
 
-   ### **Flag 🚩:** `JKKNIUCTF{comming soon}`
+   ### **Flag 🚩:** `JKKNIUCTF{7he_city_namEd_r@NgaM@7I}`
    #### Solution:
    comming soon
