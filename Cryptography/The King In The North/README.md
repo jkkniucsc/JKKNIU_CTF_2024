@@ -2,7 +2,7 @@
  - **Difficulty:** Easy
  - **Hint:** King loves Vinegar
  - **Ciphertext:** ICCC_KMAIU_KVF_LAGG_ZX_KVF_OGKTY
- - **Flag Format:** `JKKNIUCTF{ROBB_STARK_THE_KING_IN_THE_NORTH}`
+ - **Flag Format:** `JKKNIUCTF{SOME_TEXT}`
  - **Author: TM_47**
 
    ### **Flag 🚩:** `JKKNIUCTF{ROBB_STARK_THE_KING_IN_THE_NORTH}`
