@@ -3,15 +3,15 @@
 # JKKNIU CTF 2024 Problem Set
 
 ### Total
-- [ ] Crypto: 1
-- [x] Misc: 6 (Completed)
-- [ ] OSINT: 4
-- [ ] Reverse Engineering: 3
-- [ ] Steganography: 2
-- [ ] Web: Pending
-- [x] Forensics: 7 (Completed)
-- [ ] Pwn: Pending
-- [ ] Warmup: Pending
+- [ ] Crypto: 7 
+- [x] Misc: 7
+- [x] OSINT: 4 
+- [x] Reverse Engineering: 3
+- [x] Steganography: 3
+- [ ] Web: 3
+- [x] Forensics: 7
+- [ ] Pwn: 3
+- [ ] Warmup: 5
 <br> <br>
 > [!IMPORTANT]
 > Categories and Total Number of Problems
@@ -23,8 +23,8 @@ pie
 "Steganography": 6.67
 "OSINT": 13.33
 "Forensics": 20.00
-"Web Exploitation": 10.00
+"Web Exploitation": 0
 "Cryptography": 13.33
-"Pwn": 1
-"Warmup": 5
+"Pwn": 0
+"Warmup": 0
 ```
