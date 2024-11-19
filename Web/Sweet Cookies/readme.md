@@ -6,8 +6,8 @@ Can you unlock it to find the flag?
 - **Flag Format**: `JKKNIUCTF{s0m3th!ng}`
 - **Author**: 7m1rz9a
 
-#### **Flag**: `JKKNIUCTF{sweet_cookie_find}`
-## File: https://drive.google.com/drive/folders/19YNGKWhvv9lqbnF4dR-7VGJlV6Ve5bfg?usp=sharing
+#### **Flag**: `JKKNIUCTF{cookie_tampering_successful}`
+## File: https://drive.google.com/drive/folders/13Lgtxu3skiIMjxZH549pXrntblIQmDd0?usp=sharing
 
 ## Solution
-> Inspect the page,then in the cookies option you will get flag.
+> At first signup in the site ,then login. After login there will be shown,try accessing the admin panel. But you can not access in it. Then inspect the page,in the storage tab ,you will find the cookie option. Now change the role from user to admin and refresh. hurray!! flag is visible now.
