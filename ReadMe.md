@@ -3,28 +3,26 @@
 # JKKNIU CTF 2024 Problem Set
 
 ### Total
-- [ ] Crypto: 7 
-- [x] Misc: 7
+- [x] Crypto: 8 
+- [x] Misc: 8
 - [x] OSINT: 4 
 - [x] Reverse Engineering: 3
-- [x] Steganography: 3
-- [ ] Web: 3
+- [x] Steganography: 5
+- [x] Web: 4
 - [x] Forensics: 7
-- [ ] Pwn: 3
-- [ ] Warmup: 5
+- [x] Warmup: 4
 <br> <br>
 > [!IMPORTANT]
 > Categories and Total Number of Problems
 > 
 ```mermaid
 pie
-"Misc": 13.33
-"Reverse Engineering": 13.33
-"Steganography": 6.67
-"OSINT": 13.33
-"Forensics": 20.00
-"Web Exploitation": 0
-"Cryptography": 13.33
-"Pwn": 0
-"Warmup": 0
+"Misc": 18.60
+"Reverse Engineering": 6.98
+"Steganography": 11.63
+"OSINT": 9.3
+"Forensics": 16.28
+"Web Exploitation": 9.3
+"Cryptography": 18.60
+"Warmup": 9.3
 ```
