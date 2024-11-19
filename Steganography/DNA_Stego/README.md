@@ -1,5 +1,8 @@
+## Chal info: Stego. A word of two letters.
+`A = 00
+C = 01
+G = 10
+T = 11`
 
-- **Flag Format**: `JKKNIUCTF{F4k3_Fl4G}`
-- **Author: or3ki_01xs** 
-
-[Download File](https://drive.google.com/file/d/1tsWnYucdRo8TmGzXkUViuPPZEm_42l6V/view?usp=sharing)
+Position = 3n+1, <br> where n = 0 to 7
+> A C C T T A T A C A G T
