@@ -1,0 +1,10 @@
+Challenge Description: are you know how can make a wordlist where character will be a-f and 0-5.
+Difficulty: Esay
+File : https://drive.google.com/file/d/187KUjuRJipZuDXjaQOzh5Y901nKKq1MJ/view?usp=sharing
+Flag Format: JKKNIUCTF{}
+
+Author: 0xm4r
+
+Flag 🚩: JKKNIUCTF{br6te_50rces_is_everywhere}
+
+Solution: use john the ripper or releted tools. password : 'deedaa'
