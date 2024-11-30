@@ -70,7 +70,7 @@ if __name__ == "__main__":
   ```
   The `grep` command will help you narrow down the results, making it easier to locate the password in the dump file.
 
-    Or
+  Or
   ```sh
   strings 1271597.dump | grep JKKNIU
   ```
