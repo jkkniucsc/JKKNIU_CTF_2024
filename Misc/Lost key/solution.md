@@ -70,6 +70,12 @@ if __name__ == "__main__":
   ```
   The `grep` command will help you narrow down the results, making it easier to locate the password in the dump file.
 
+    Or
+  ```sh
+  strings 1271597.dump | grep JKKNIU
+  ```
+  This will grep the whole flag:D
+
 5.Password: `passw0rdpassw0rdpassw0rdpassw0rdpassw0rdMySup3rs3cr37p455W0rDpassw0rdpassw0rdpassw0rdpassw0rd`
 
 
